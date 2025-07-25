@@ -118,3 +118,10 @@ Authentication: Secure login system using Firebase or JWT.
 Multilingual UI: Interface translation for wider accessibility.
 
 These enhancements would transform the application from a basic chat tool into a powerful communication platform.
+
+
+OUTPUT:
+
+
+<img width="1916" height="923" alt="Image" src="https://github.com/user-attachments/assets/905c9f89-1bba-4308-bbca-53c2a3b828a0" />
+<img width="1918" height="969" alt="Image" src="https://github.com/user-attachments/assets/135a669f-03d8-422b-a731-9a4709ee23ea" />
